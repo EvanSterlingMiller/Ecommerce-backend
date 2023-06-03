@@ -1,4 +1,4 @@
-const { Category } = require('../../fantastic-umbrella/Develop/models');
+const { Category } = require('../models');
 
 const categoryData = [
   {
